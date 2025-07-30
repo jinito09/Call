@@ -5,3 +5,5 @@ the 2nd test text
 the 3rd test text
 
 the 4th test text
+
+CursorでGit操作をテスト中！
